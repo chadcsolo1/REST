@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/33020309-62c6-4ea1-b0db-5a2ce4305528/resourceGroups/Chad-Solomon-P0/providers/Microsoft.Web/sites/Furr-Babbies-Pet-Supply",
+    "appService.deploySubpath": "FurrBApi\\FurrBApi\\publish"
+}

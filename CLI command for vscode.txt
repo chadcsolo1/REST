@@ -1,0 +1,9 @@
+dotnet publish -c Release -o publish  ***CLI command for deploying api
+
+[FromQuery] is to get values from the query string
+[FromRoute] is to get values from route data
+[FromForm] is to get values from posted form fields
+[FromBody] is to get values from the request body
+[FromHeader] is to get values from HTTP headers
+[FromService] will have value injected by the DI (Dependency Injection) resolver
+
